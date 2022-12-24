@@ -1,0 +1,51 @@
+PLAYER	TEAM	AGE	FGM	FGA	FG%	FGM	FGA	FG%	FGM	FGA	FG%	FGM	FGA	FG%	FGM	FGA	FG%	FGM	FGA	FG%
+Anfernee Simons	POR	20	0	2	0.0	0	2	0.0	0	0	0.0	0	1	0.0	0	1	0.0	0	1	0.0
+Dzanan Musa	BKN	20	2	2	100	0	0	0.0	0	0	0.0	0	0	0.0	0	1	0.0	0	0	0.0
+Jarred Vanderbilt	DEN	20	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0.0
+Lonnie Walker IV	SAS	20	0	0	0.0	2	4	50.0	1	1	100	0	2	0.0	0	0	0.0	0	1	0.0
+Shai Gilgeous-Alexander	LAC	20	9	20	45.0	1	3	33.3	4	9	44.4	5	10	50.0	3	4	75.0	6	13	46.2
+Zhaire Smith	PHI	20	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0.0	-	-	-	0	0	0.0
+Furkan Korkmaz	PHI	21	2	3	66.7	0	1	0.0	1	3	33.3	0	3	0.0	1	3	33.3	2	5	40.0
+Isaiah Hartenstein	HOU	21	2	2	100	-	-	-	0	0	0.0	-	-	-	0	0	0.0	0	0	0.0
+Jarrett Allen	BKN	21	19	29	65.5	0	3	0.0	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0.0
+Jayson Tatum	BOS	21	21	39	53.8	2	8	25.0	4	11	36.4	10	19	52.6	4	13	30.8	8	22	36.4
+Jonathan Isaac	ORL	21	6	8	75.0	0	2	0.0	0	4	0.0	1	5	20.0	4	14	28.6	0	7	0.0
+Robert Williams III	BOS	21	1	2	50.0	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0.0
+Rodions Kurucs	BKN	21	5	9	55.6	0	2	0.0	0	0	0.0	0	0	0.0	1	3	33.3	2	5	40.0
+Terrance Ferguson	OKC	21	2	5	40.0	0	0	0.0	0	1	0.0	0	0	0.0	5	14	35.7	2	4	50.0
+Zach Collins	POR	21	29	47	61.7	1	3	33.3	0	5	0.0	4	5	80.0	4	13	30.8	3	7	42.9
+Aaron Holiday	IND	22	1	1	100	0	0	0.0	0	0	0.0	0	2	0.0	1	1	100	0	1	0.0
+Ben Simmons	PHI	22	59	92	64.1	9	18	50.0	4	6	66.7	0	0	0.0	0	0	0.0	0	0	0.0
+Bruce Brown	DET	22	4	6	66.7	0	3	0.0	0	0	0.0	0	0	0.0	0	3	0.0	1	2	50.0
+Donovan Mitchell	UTA	22	16	33	48.5	1	19	5.3	5	10	50.0	2	6	33.3	4	11	36.4	8	30	26.7
+Ivica Zubac	LAC	22	7	11	63.6	1	4	25.0	0	2	0.0	1	1	100	0	0	0.0	0	0	0.0
+Jacob Evans	GSW	22	0	0	0.0	0	1	0.0	0	0	0.0	0	1	0.0	2	2	100	0	1	0.0
+Jamal Murray	DEN	22	34	56	60.7	10	33	30.3	20	40	50.0	10	31	32.3	22	56	39.3	11	34	32.4
+Jaylen Brown	BOS	22	19	26	73.1	4	11	36.4	6	8	75.0	1	2	50.0	8	12	66.7	6	26	23.1
+Jerome Robinson	LAC	22	2	4	50.0	0	1	0.0	0	1	0.0	0	1	0.0	1	2	50.0	2	5	40.0
+Landry Shamet	LAC	22	1	3	33.3	1	3	33.3	1	1	100	0	0	0.0	3	7	42.9	7	24	29.2
+Malik Beasley	DEN	22	9	17	52.9	4	13	30.8	3	8	37.5	0	5	0.0	13	32	40.6	7	18	38.9
+Melvin Frazier Jr.	ORL	22	1	1	100	0	1	0.0	0	0	0.0	1	2	50.0	0	1	0.0	0	0	0.0
+T.J. Leaf	IND	22	0	2	0.0	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0.0	0	1	0.0
+Thon Maker	DET	22	5	11	45.5	1	2	50.0	0	0	0.0	1	1	100	0	4	0.0	0	8	0.0
+Aaron Gordon	ORL	23	12	26	46.2	2	2	100	3	7	42.9	3	6	50.0	3	9	33.3	6	12	50.0
+D'Angelo Russell	BKN	23	9	23	39.1	4	10	40.0	6	22	27.3	6	9	66.7	0	5	0.0	12	34	35.3
+D.J. Wilson	MIL	23	6	7	85.7	1	1	100	0	2	0.0	0	1	0.0	1	4	25.0	0	1	0.0
+Domantas Sabonis	IND	23	7	10	70.0	1	3	33.3	1	3	33.3	2	8	25.0	0	2	0.0	1	3	33.3
+Edmond Sumner	IND	23	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0.0	-	-	-
+Grayson Allen	UTA	23	1	3	33.3	1	1	100	0	0	0.0	0	0	0.0	0	1	0.0	0	2	0.0
+Guerschon Yabusele	BOS	23	2	3	66.7	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0.0	0	1	0.0
+Jakob Poeltl	SAS	23	17	27	63.0	6	7	85.7	0	1	0.0	0	0	0.0	0	0	0.0	0	0	0.0
+Jonah Bolden	PHI	23	1	3	33.3	0	0	0.0	0	0	0.0	0	0	0.0	1	3	33.3	3	13	23.1
+Juancho Hernangomez	DEN	23	0	1	0.0	0	0	0.0	0	0	0.0	0	0	0.0	1	1	100	0	1	0.0
+Kevon Looney	GSW	23	53	70	75.7	6	9	66.7	0	2	0.0	4	11	36.4	1	1	100	0	0	0.0
+Khyri Thomas	DET	23	2	2	100	1	2	50.0	0	1	0.0	2	3	66.7	0	1	0.0	1	3	33.3
+Luke Kennard	DET	23	2	10	20.0	2	4	50.0	4	5	80.0	6	12	50.0	2	4	50.0	7	12	58.3
+Myles Turner	IND	23	6	9	66.7	0	1	0.0	0	0	0.0	3	8	37.5	3	6	50.0	2	11	18.2
+Patrick McCaw	TOR	23	0	1	0.0	0	1	0.0	0	0	0.0	0	0	0.0	0	2	0.0	1	1	100
+Skal Labissiere	POR	23	1	1	100	0	1	0.0	0	0	0.0	0	0	0.0	0	1	0.0	0	1	0.0
+Theo Pinson	BKN	23	0	1	0.0	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0.0	3	7	42.9
+Trey Lyles	DEN	23	0	1	0.0	0	1	0.0	0	0	0.0	0	0	0.0	0	0	0.0	0	1	0.0
+Caris LeVert	BKN	24	15	23	65.2	2	8	25.0	7	13	53.8	0	3	0.0	5	11	45.5	7	15	46.7
+Damian Jones	GSW	24	1	1	100	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0.0
+Derrick White	SAS	24	22	33	66.7	4	9	44.4	3	7	42.9	6	8	75.0	1	6	16.7	5	11	45.5
